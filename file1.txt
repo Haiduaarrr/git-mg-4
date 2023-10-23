@@ -1,5 +1,3 @@
 ini adalah contoh file
 
 nambahin baris baru mislanya
-
-edit file
